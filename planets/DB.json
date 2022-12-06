@@ -1,0 +1,18 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "DB_VesselDimension",
+	"Props" : 
+	{
+		"singularities" :
+		[
+			{
+				"type": "whiteHole",
+				"uniqueID": "Vessel_Shortcut_Exit",
+				"size": 2.5,
+				"pairedSingularity": "Vessel_Shortcut_Enter",
+				"position": {"x": 264.0066, "y": -63.78975, "z": 247.1365},
+				"rotation": {"x": 0, "y": 225, "z": 180}
+			}
+		]
+    }
+}

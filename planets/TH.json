@@ -1,0 +1,25 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name" : "Timber Hearth",
+	"Props" : 
+	{
+		"singularities" :
+		[
+			{
+				"type": "blackHole",
+				"uniqueID": "Vessel_Shortcut_Enter",
+				"size": 2.5,
+				"pairedSingularity": "Vessel_Shortcut_Exit",
+				"position": {"x": -39.4, "y": -91, "z": 176}
+			}
+		],
+		"details" :
+		[
+			{
+				"path": "TowerTwin_Body/Sector_TowerTwin/Sector_TimeLoopInterior/Interactables_TimeLoopInterior/WarpCoreSocket/Prefab_NOM_WarpCoreVessel",
+				"position": {"x": -35.92742, "y": -88.84381, "z": 177.33},
+				"rotation": {"x": 312.09, "y": 38.28963, "z": 135.8459}
+			}
+		]
+	}
+}
